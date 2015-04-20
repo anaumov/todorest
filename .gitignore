@@ -1,0 +1,12 @@
+**dist
+*.hi
+*.o 
+.cabal-sandbox     
+cabal.sandbox.config
+codex.tags
+TAGS
+*.keep
+*.swp
+*.swo
+*.swn
+*.DS_Store
