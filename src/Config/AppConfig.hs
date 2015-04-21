@@ -3,6 +3,7 @@
 module Config.AppConfig
     (Config(..)
     , getConfig
+    , pool
     )
 where
 
